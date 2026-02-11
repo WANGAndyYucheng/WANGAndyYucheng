@@ -8,11 +8,6 @@ Greetings! I am **WANG (Andy) Yucheng**, a CSE PhD student at HKUST.
 
 <div align="center">
 
-<!-- GitHub Metrics Dashboard (Option B) -->
-<img
-  src="./github-metrics.svg"
-  alt="GitHub Metrics"
-  width="900"
-/>
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="520" />
 
 </div>
