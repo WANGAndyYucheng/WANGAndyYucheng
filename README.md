@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋 Welcome to my GitHub!
 
-<!--
-**WANGAndyYucheng/WANGAndyYucheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I am **WANG (Andy) Yucheng**, a CSE PhD student at HKUST.  
+- 🎓 **Research:** Controllable human-centric image/video generation.  
+- 🌍 **About Me:** [[Google Scholar](https://scholar.google.com/citations?user=KWvFLQwAAAAJ&hl=en)] [[Twitter (X)](https://x.com/AndyYucheng)] [[LinkedIn](https://www.linkedin.com/in/wang-andy-yucheng)].  
+- 🔍 **Reach Me:** Email: ywangls@connect.ust.hk, or ywangls@cse.ust.hk.  
+- 🤝 Please feel free to reach out for discussions, collaborations, or research internships.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Metrics Dashboard (Option B) -->
+<img
+  src="./github-metrics.svg"
+  alt="GitHub Metrics"
+  width="900"
+/>
+
+</div>
